@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="mist@gpu22.mistgpu.xyz:32000 password" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="mist@gpu22.mistgpu.xyz:32000 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mist/userage" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu294.mistgpu.com:18010 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mist/project1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu294.mistgpu.com:18010 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mist" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu294.mistgpu.com:18010 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_633" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu294.mistgpu.com:18010 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_517" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu294.mistgpu.com:18010 password (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mist/project1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu48.mistgpu.com:55500 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu48.mistgpu.com:55500 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
